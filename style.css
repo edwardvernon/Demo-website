@@ -2,8 +2,8 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
-h1 {
-    color: blue;
+* {
+    color: gray;
     text-align: center;
 }
 
@@ -16,6 +16,7 @@ h1 {
     text-align: center;
     width: 100px; 
     position: relative;
+    left: 38.5%;
 }
 
 #seeDetails:hover{

@@ -17,6 +17,3 @@ const showAndHide = () =>{
 }
 
 seeDetails.onclick = showAndHide;
-
-const body = document.body
-body.append("Hello World")
