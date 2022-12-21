@@ -1,3 +1,7 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
 h1 {
     color: blue;
     text-align: center;
@@ -10,9 +14,8 @@ h1 {
 #seeDetails{
     background-color: aqua;
     text-align: center;
-    width: 150px;
+    width: 100px; 
     position: relative;
-    left: 40%;
 }
 
 #seeDetails:hover{
