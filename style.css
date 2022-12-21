@@ -16,7 +16,7 @@
     text-align: center;
     width: 100px; 
     position: relative;
-    left: 38.5%;
+    margin: auto;
 }
 
 #seeDetails:hover{
