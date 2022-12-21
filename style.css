@@ -1,0 +1,12 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+#batuDetails{
+    visibility: hidden;
+}
+
+#seeDetails{
+    background-color: aqua;
+}
