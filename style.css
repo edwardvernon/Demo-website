@@ -13,5 +13,8 @@ h1 {
     width: 150px;
     position: relative;
     left: 40%;
-    
+}
+
+#seeDetails:hover{
+    cursor: pointer;
 }
